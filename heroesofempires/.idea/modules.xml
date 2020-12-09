@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hero/hero.iml" filepath="$PROJECT_DIR$/hero/hero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero/hero-dao-jpa/hero-dao-jpa.iml" filepath="$PROJECT_DIR$/hero/hero-dao-jpa/hero-dao-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero/hero-dao-model/hero-dao-model.iml" filepath="$PROJECT_DIR$/hero/hero-dao-model/hero-dao-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hero/hero-rest/hero-rest.iml" filepath="$PROJECT_DIR$/hero/hero-rest/hero-rest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/heroesofempires.iml" filepath="$PROJECT_DIR$/heroesofempires.iml" />
+      <module fileurl="file://$PROJECT_DIR$/species/species.iml" filepath="$PROJECT_DIR$/species/species.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui/ui.iml" filepath="$PROJECT_DIR$/ui/ui.iml" />
+    </modules>
+  </component>
+</project>

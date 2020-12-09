@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hero-dao-model" />
+        <module name="ui" />
+        <module name="hero-rest" />
+        <module name="species" />
+        <module name="hero-dao-jpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="hero" target="1.5" />
+      <module name="hero-dao-jpa" target="1.8" />
+      <module name="hero-dao-model" target="1.8" />
+      <module name="hero-rest" target="1.8" />
+      <module name="heroesofempire" target="1.5" />
+      <module name="heroesofempires" target="1.5" />
+      <module name="species" target="1.8" />
+      <module name="ui" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ui" options="-endorseddirs C:\Users\Cz.Csaba\Downloads\02-swagger-master\02-swagger-master\heroesofempires\ui\target/endorsed" />
+    </option>
+  </component>
+</project>

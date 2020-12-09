@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="hero-rest:war">
+    <output-path>$PROJECT_DIR$/hero/hero-rest/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>hero-rest</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="hero-rest.war">
+      <element id="artifact" artifact-name="hero-rest:war exploded" />
+    </root>
+  </artifact>
+</component>
